@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sureshalagarsamy
-- 👀 I’m interested 'coding'
+- 👀 I’m interested in 'coding'
 - 🌱 I’m currently learning 'UI related'
 - 📫 alagarsamy.suresh@gmail.com / +91-9886619241
 
