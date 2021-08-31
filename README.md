@@ -8,7 +8,7 @@
 ### 🛠 **Tech Stack**
 
 -💻  **JavaScript | ES6**
--🌐  **HTML | CSS | ReactJS |Redux**
+-🌐  **HTML | CSS | ReactJS**
 -🔧  **GitHub | Postman**
 
 ### Languages and Tools
