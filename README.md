@@ -12,7 +12,7 @@
 -🔧  **GitHub | Postman**
 
 ### Languages and Tools
-**![image](https://user-images.githubusercontent.com/74610770/109203993-d4124b80-77ca-11eb-8f84-ebcfb72fb3cf.png)  ![image](https://user-images.githubusercontent.com/74610770/109204504-6dd9f880-77cb-11eb-8c97-4f2e5fef0471.png) ![image](https://user-images.githubusercontent.com/74610770/109204905-efca2180-77cb-11eb-8073-51d600da08d0.png)  ![image](https://user-images.githubusercontent.com/74610770/109205495-afb76e80-77cc-11eb-95d2-5a55b9e40de5.png)  ![image](https://user-images.githubusercontent.com/74610770/109205968-4e43cf80-77cd-11eb-8cf0-ae24511ea634.png)![image](https://user-images.githubusercontent.com/74610770/109208796-c9f34b80-77d0-11eb-9df9-19053f25c8c0.png) ![image](https://user-images.githubusercontent.com/74610770/109223392-87d20600-77e0-11eb-89f5-180e0c0ffd0e.png)**
+**![image](https://user-images.githubusercontent.com/6780840/215461072-4019e991-9f48-41ae-9c94-5b2fa35b8c68.png)  ![image](https://user-images.githubusercontent.com/6780840/215461770-65b4495c-ac51-47b9-94b6-f7cededf8756.png) ![image](https://user-images.githubusercontent.com/6780840/215462667-56eec9b7-c2b9-461d-9527-77afd8c26b3f.png)  ![image](https://user-images.githubusercontent.com/6780840/215463061-58926741-543a-444b-80b6-54ea6f187149.png) ![image](https://user-images.githubusercontent.com/6780840/215466367-a9577690-11ac-467b-a749-dba08413c80a.png)**
 
 
 # 🤝🏻 Connect with me 
